@@ -8,4 +8,6 @@ public with sharing class Calculator {
     public integer subtract(integer a, integer b{
     return a-b;
     }
+    public integer multiplication(integer a, integerb { return a * b;
+    }
 }
